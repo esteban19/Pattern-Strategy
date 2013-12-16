@@ -1,0 +1,1 @@
+Implements Strategy Pattern in C#
